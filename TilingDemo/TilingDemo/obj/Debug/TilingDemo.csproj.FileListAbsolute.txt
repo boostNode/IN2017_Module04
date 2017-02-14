@@ -1,0 +1,6 @@
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\TilingDemo\TilingDemo\bin\Debug\TilingDemo.exe.config
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\TilingDemo\TilingDemo\bin\Debug\TilingDemo.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\TilingDemo\TilingDemo\bin\Debug\TilingDemo.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\TilingDemo\TilingDemo\obj\Debug\TilingDemo.csprojResolveAssemblyReference.cache
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\TilingDemo\TilingDemo\obj\Debug\TilingDemo.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\TilingDemo\TilingDemo\obj\Debug\TilingDemo.pdb

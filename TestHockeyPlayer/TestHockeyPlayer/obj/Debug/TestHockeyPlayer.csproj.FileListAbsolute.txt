@@ -1,0 +1,6 @@
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\TestHockeyPlayer\TestHockeyPlayer\bin\Debug\TestHockeyPlayer.exe.config
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\TestHockeyPlayer\TestHockeyPlayer\bin\Debug\TestHockeyPlayer.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\TestHockeyPlayer\TestHockeyPlayer\bin\Debug\TestHockeyPlayer.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\TestHockeyPlayer\TestHockeyPlayer\obj\Debug\TestHockeyPlayer.csprojResolveAssemblyReference.cache
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\TestHockeyPlayer\TestHockeyPlayer\obj\Debug\TestHockeyPlayer.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\TestHockeyPlayer\TestHockeyPlayer\obj\Debug\TestHockeyPlayer.pdb
