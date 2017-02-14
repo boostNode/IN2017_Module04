@@ -1,0 +1,12 @@
+E:\_boostNode\GitHub\IN2017\IN2017_Module04\YouDoIt_ClassAndObjects\YouDoIt_ClassAndObjects\bin\Debug\YouDoIt_ClassAndObjects.exe.config
+E:\_boostNode\GitHub\IN2017\IN2017_Module04\YouDoIt_ClassAndObjects\YouDoIt_ClassAndObjects\bin\Debug\YouDoIt_ClassAndObjects.exe
+E:\_boostNode\GitHub\IN2017\IN2017_Module04\YouDoIt_ClassAndObjects\YouDoIt_ClassAndObjects\bin\Debug\YouDoIt_ClassAndObjects.pdb
+E:\_boostNode\GitHub\IN2017\IN2017_Module04\YouDoIt_ClassAndObjects\YouDoIt_ClassAndObjects\obj\Debug\YouDoIt_ClassAndObjects.csprojResolveAssemblyReference.cache
+E:\_boostNode\GitHub\IN2017\IN2017_Module04\YouDoIt_ClassAndObjects\YouDoIt_ClassAndObjects\obj\Debug\YouDoIt_ClassAndObjects.exe
+E:\_boostNode\GitHub\IN2017\IN2017_Module04\YouDoIt_ClassAndObjects\YouDoIt_ClassAndObjects\obj\Debug\YouDoIt_ClassAndObjects.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\YouDoIt_ClassAndObjects\YouDoIt_ClassAndObjects\bin\Debug\YouDoIt_ClassAndObjects.exe.config
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\YouDoIt_ClassAndObjects\YouDoIt_ClassAndObjects\obj\Debug\YouDoIt_ClassAndObjects.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\YouDoIt_ClassAndObjects\YouDoIt_ClassAndObjects\obj\Debug\YouDoIt_ClassAndObjects.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module04_2\YouDoIt_ClassAndObjects\YouDoIt_ClassAndObjects\bin\Debug\YouDoIt_ClassAndObjects.exe.config
+K:\_boostNode\GitHub\IN2017\IN2017_Module04_2\YouDoIt_ClassAndObjects\YouDoIt_ClassAndObjects\obj\Debug\YouDoIt_ClassAndObjects.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module04_2\YouDoIt_ClassAndObjects\YouDoIt_ClassAndObjects\obj\Debug\YouDoIt_ClassAndObjects.pdb
