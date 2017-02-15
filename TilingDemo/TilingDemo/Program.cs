@@ -18,18 +18,18 @@ namespace TilingDemo
             Console.WriteLine("Chapter 9, Programming Exercise #4 - Tiling Demo\n");
 
             // instantiate and display Room objects
-            Room[] rooms = new Room[10];
-
-            rooms[0] = new Room(1, 12.0, 13.0);
-            rooms[1] = new Room(2, 15.0, 22.0);
-            rooms[2] = new Room(3, 8.0, 10.0);
-            rooms[3] = new Room(4, 12.0, 16.0);
-            rooms[4] = new Room(5, 10.0, 10.0);
-            rooms[5] = new Room(6, 9.0, 11.0);
-            rooms[6] = new Room(7, 16.0, 24.0);
-            rooms[7] = new Room(8, 30.0, 40.0);
-            rooms[8] = new Room(9, 22.0, 25.0);
-            rooms[9] = new Room(10, 32.0, 48.0);
+            Room[] rooms = {
+                new Room(1, 12.0, 13.0),
+                new Room(2, 15.0, 22.0),
+                new Room(3, 8.0, 10.0),
+                new Room(4, 12.0, 16.0),
+                new Room(5, 10.0, 10.0),
+                new Room(6, 9.0, 11.0),
+                new Room(7, 16.0, 24.0),
+                new Room(8, 30.0, 40.0),
+                new Room(9, 22.0, 25.0),
+                new Room(10, 32.0, 48.0)
+            };
 
             for( int i = 0 ; i < rooms.Length ; i++ )
             {

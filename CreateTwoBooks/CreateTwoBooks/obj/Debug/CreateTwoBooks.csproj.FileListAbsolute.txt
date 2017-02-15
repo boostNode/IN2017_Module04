@@ -4,3 +4,6 @@ E:\_boostNode\GitHub\IN2017\IN2017_Module04\CreateTwoBooks\CreateTwoBooks\bin\De
 E:\_boostNode\GitHub\IN2017\IN2017_Module04\CreateTwoBooks\CreateTwoBooks\obj\Debug\CreateTwoBooks.csprojResolveAssemblyReference.cache
 E:\_boostNode\GitHub\IN2017\IN2017_Module04\CreateTwoBooks\CreateTwoBooks\obj\Debug\CreateTwoBooks.exe
 E:\_boostNode\GitHub\IN2017\IN2017_Module04\CreateTwoBooks\CreateTwoBooks\obj\Debug\CreateTwoBooks.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\CreateTwoBooks\CreateTwoBooks\bin\Debug\CreateTwoBooks.exe.config
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\CreateTwoBooks\CreateTwoBooks\obj\Debug\CreateTwoBooks.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\CreateTwoBooks\CreateTwoBooks\obj\Debug\CreateTwoBooks.pdb

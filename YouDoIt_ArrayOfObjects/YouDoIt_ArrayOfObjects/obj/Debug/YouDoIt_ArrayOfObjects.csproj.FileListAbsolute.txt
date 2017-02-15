@@ -7,3 +7,6 @@ E:\_boostNode\GitHub\IN2017\IN2017_Module04\YouDoIt_ArrayOfObjects\YouDoIt_Array
 K:\_boostNode\GitHub\IN2017\IN2017_Module04\YouDoIt_ArrayOfObjects\YouDoIt_ArrayOfObjects\bin\Debug\YouDoIt_ArrayOfObjects.exe.config
 K:\_boostNode\GitHub\IN2017\IN2017_Module04\YouDoIt_ArrayOfObjects\YouDoIt_ArrayOfObjects\obj\Debug\YouDoIt_ArrayOfObjects.exe
 K:\_boostNode\GitHub\IN2017\IN2017_Module04\YouDoIt_ArrayOfObjects\YouDoIt_ArrayOfObjects\obj\Debug\YouDoIt_ArrayOfObjects.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\YouDoIt_ArrayOfObjects\YouDoIt_ArrayOfObjects\bin\Debug\YouDoIt_ArrayOfObjects.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\YouDoIt_ArrayOfObjects\YouDoIt_ArrayOfObjects\bin\Debug\YouDoIt_ArrayOfObjects.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module04\YouDoIt_ArrayOfObjects\YouDoIt_ArrayOfObjects\obj\Debug\YouDoIt_ArrayOfObjects.csprojResolveAssemblyReference.cache
